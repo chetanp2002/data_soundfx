@@ -7,5 +7,5 @@ setup(
     install_requires=['matplotlib', 'numpy', 'simpleaudio'],
     description='Data visualization library with sound effects',
     author='Chetan',
-    url='https://github.com/yourusername/data_soundfx',
+    url='https://github.com/chetanp2002/data_soundfx',
 )
